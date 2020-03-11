@@ -1,5 +1,5 @@
 data:
   env: wy-springcloud-openfeign
   user:
-    username: admin-dev
-    password: admin-dev
+    username: admin-dev-4
+    password: admin-dev-4
